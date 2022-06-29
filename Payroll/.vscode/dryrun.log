@@ -1,0 +1,6 @@
+make.exe all --dry-run --keep-going --print-directory
+make: Entering directory 'c:/Users/yangj/Documents/Job Hunting/Projects/Payroll'
+rm -f *.o core *.exe
+ 
+make: Leaving directory 'c:/Users/yangj/Documents/Job Hunting/Projects/Payroll'
+ 
